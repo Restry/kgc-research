@@ -1,0 +1,14 @@
+-i https://pypi.tuna.tsinghua.edu.cn/simple
+py2neo
+joblib
+numpy
+jieba
+scikit-learn
+
+刘德华一共演了多少部电影
+刘德华演过的电影都是什么风格
+刘德华和周星驰合作过什么电影
+周星驰在1992年演过什么电影
+
+卧虎藏龙什么时候上映
+
